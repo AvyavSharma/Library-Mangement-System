@@ -19,18 +19,23 @@ User Authentication
 
 # Screenshots
 REGISTRATION:
+
 ![WhatsApp Image 2023-08-20 at 11 52 15](https://github.com/AvyavSharma/Library-Mangement-System/assets/98750107/c08d3fd4-54b3-49ac-844d-c45098cdbf80)
 
 LOGIN:
+
 ![WhatsApp Image 2023-08-20 at 11 52 39](https://github.com/AvyavSharma/Library-Mangement-System/assets/98750107/8ec6f197-08d0-4718-8a2d-42f1ca0c2cab)
 
 ENTER STUDENT DETAILS:
+
 ![WhatsApp Image 2023-08-20 at 11 54 21](https://github.com/AvyavSharma/Library-Mangement-System/assets/98750107/8d2a5e1c-ce74-4fc3-ba01-17d3ab70390f)
 
 ISSUE BOOK:
+
 ![WhatsApp Image 2023-08-20 at 11 56 44](https://github.com/AvyavSharma/Library-Mangement-System/assets/98750107/c09a9c8f-5d74-4fb1-b9ee-73f980d910d2)
 
 RETURN BOOK:
+
 ![WhatsApp Image 2023-08-20 at 11 58 01](https://github.com/AvyavSharma/Library-Mangement-System/assets/98750107/532fd1b7-e308-445e-bcbe-05137bab1cce)
 
 
