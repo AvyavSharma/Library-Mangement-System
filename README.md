@@ -1,5 +1,5 @@
 # Library Management System (C++)
-Welcome to the Library Management System repository! This project is a C++ application designed to efficiently manage library operations. The system consists of two main sections: User Authentication and Library Operations
+This project is a C++ application designed to efficiently manage library operations. The system consists of two main sections: User Authentication and Library Operations
 
 # Introduction
 The Library Management System is a C++ application that provides a user-friendly interface to manage library-related tasks. It includes features for user account management, student details handling, and book-related operations. The system is designed to streamline library processes for librarians and improve resource accessibility for students.
