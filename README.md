@@ -16,3 +16,7 @@ User Authentication
 2. Issue or Return Book: Librarians can manage the process of lending and returning books for students.
 3. View Book Status: Librarians can check the status of books borrowed by a specific student.
 4. View Details of All Enrolled Students: Librarians can access a list of all enrolled students along with their relevant details.
+
+# Screenshots
+![WhatsApp Image 2023-08-20 at 11 52 15](https://github.com/AvyavSharma/Library-Mangement-System/assets/98750107/c08d3fd4-54b3-49ac-844d-c45098cdbf80)
+
