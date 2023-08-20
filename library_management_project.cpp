@@ -9,7 +9,7 @@
 #include <cstdio>
 #include <iomanip>
 #include <bits/stdc++.h>
-#include <regex>
+
 using namespace std;
 #define MAX 200
 
@@ -85,7 +85,7 @@ void student ::add_student()
 // compares the date of issue with current date
 // uses ctime library to get time
 //  converts it into readable format
-// uses regex to compare
+
 
 void student ::view_student_details(int w)
 {
