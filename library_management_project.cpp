@@ -9,7 +9,7 @@
 #include <cstdio>
 #include <iomanip>
 #include <bits/stdc++.h>
-
+#include <regex>
 using namespace std;
 #define MAX 200
 
@@ -32,7 +32,7 @@ public:
     void display();
     void change_password();
     void exit();
-    void append();
+    // void append();
     int initialize();
 };
 
